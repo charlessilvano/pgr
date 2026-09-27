@@ -1,0 +1,25 @@
+{
+  "name": "Gerador de SST para Condomínios",
+  "short_name": "Gerador SST",
+  "description": "Configure riscos, analise a NR-01 e gere PGR, PCMSO e LTCAT em Word.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef2f3",
+  "theme_color": "#0d6171",
+  "icons": [
+    {
+      "src": "./pgr-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./pgr-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
