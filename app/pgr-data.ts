@@ -573,6 +573,7 @@ export const condoCatalog: CondoDefinition[] = [
   { id: "maria-leandra", name: "Condomínio Edifício Maria Leandra", cnpj: "16.420.960/0001-40", expectedTotal: 6, suggestedRoleIds: ["porteiro", "auxiliar-servicos-gerais"], note: "Confirmar a distribuição dos 6 trabalhadores entre portaria e limpeza." },
   { id: "beira-rio", name: "Centro Médico Odontológico Beira Rio", cnpj: "11.599.116/0001-05", expectedTotal: 6, suggestedRoleIds: ["auxiliar-servicos-gerais", "zelador", "porteiro"], note: "Confirmar a distribuição dos 6 trabalhadores entre os cargos indicados." },
   { id: "sao-jorge", name: "Residencial São Jorge", cnpj: "08.927.080/0001-37", expectedTotal: 8, suggestedRoleIds: ["porteiro-edificio", "zelador-edificio", "servicos-gerais"], note: "Confirmar a distribuição dos 8 trabalhadores entre os cargos indicados." },
+  { id: "luxor-residence", name: "Condomínio Luxor Residence", cnpj: "18.994.704/0001-92", expectedTotal: 2, suggestedRoleIds: ["porteiro", "zelador"], note: "Confirmar a distribuição dos 2 trabalhadores entre os cargos indicados." },
   { id: "personalizado", name: "Novo condomínio", expectedTotal: null, suggestedRoleIds: [], note: "Preencha a identificação e monte o quadro de funcionários." },
 ];
 
